@@ -51,7 +51,7 @@
 
 ---
 
-## 🔧 Installation
+## 🔧 Project Structure
 
 ### typemaster/
 
